@@ -1,6 +1,6 @@
 # Expo Dapp Seed
 
-This repository contains the initial setup for building React Native Dapps with Expo, Truffle and Web3.
+This repository contains the initial setup for building React Native Dapps with Expo, Truffle, TypeScript and Web3.
 
 ## Setup
 
